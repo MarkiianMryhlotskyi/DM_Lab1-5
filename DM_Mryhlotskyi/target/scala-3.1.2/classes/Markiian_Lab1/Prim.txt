@@ -1,0 +1,13 @@
+A B 3
+A F 34
+A H 80
+B D 1
+B H 68
+C E 23
+C G 12
+D E 53
+D H 39
+E G 68
+E H 14
+F H 25
+G H 99
